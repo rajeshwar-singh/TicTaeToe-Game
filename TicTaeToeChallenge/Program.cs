@@ -15,6 +15,7 @@ namespace TicTaeToeChallenge
         static int count=0;
         static void Main(string[] args)
         {
+            //This game is created for practice purpose only
             int player = 2;
             int input = 0;
             bool inputCorrect = true;
@@ -22,6 +23,8 @@ namespace TicTaeToeChallenge
             Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.Black;
             Console.Clear();
+
+            
             setField();
 
 
