@@ -220,7 +220,7 @@ namespace TicTaeToeChallenge
             Console.WriteLine("                                                        |     |     ");
             count++;
         }
-        //resetting the field
+        //resetting the using resetField function
 
         static void resetField()
         {
