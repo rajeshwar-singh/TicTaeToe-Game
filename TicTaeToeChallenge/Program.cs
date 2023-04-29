@@ -20,7 +20,7 @@ namespace TicTaeToeChallenge
             int input = 0;
             bool inputCorrect = true;
 
-            Console.BackgroundColor = ConsoleColor.Green;
+            Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Black;
             Console.Clear();
 
